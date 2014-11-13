@@ -102,10 +102,10 @@ valign=top</panel_attributes>
     <coordinates>
       <x>675</x>
       <y>468</y>
-      <w>144</w>
+      <w>198</w>
       <h>36</h>
     </coordinates>
-    <panel_attributes>Check result/Correction</panel_attributes>
+    <panel_attributes>Check result/Correct user input</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
