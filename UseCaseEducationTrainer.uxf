@@ -223,4 +223,18 @@ valign=top</panel_attributes>
     <panel_attributes/>
     <additional_attributes>10.0;10.0;300.0;140.0</additional_attributes>
   </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>1125</x>
+      <y>18</y>
+      <w>315</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes>Maybe account management:
+as admin you are able to reclassify tasks
+as common user you just can solve tasks
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>
